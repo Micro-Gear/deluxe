@@ -1,2 +1,2 @@
 # arduino
-Source code for Hanky, a custom obstacle-avoiding robot.
+Source code for Floricica, a custom obstacle-avoiding robot.
